@@ -63,9 +63,9 @@
 ### ⚡ **Let's Connect**
 <div align="center">
 
-[[![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge)](https://github.com/smri29)
-](https://github.com/MarisaOishy)[[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/smri29)
-](https://www.linkedin.com/in/marisa-oishy-ba1b4323a/)[[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?logo=facebook&logoColor=white&style=for-the-badge)](https://www.facebook.com/Shah.Mohammad.Rizvi)](https://www.facebook.com/marisa.oishy)
+[[![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge)]
+](https://github.com/MarisaOishy)[[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)]
+](https://www.linkedin.com/in/marisa-oishy-ba1b4323a/)[[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?logo=facebook&logoColor=white&style=for-the-badge)](https://www.facebook.com/marisa.oishy)
 [[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge)](https://www.instagram.com/smr_i29/)](https://instagram.com/marisa_oishy/)
 
 </div>
