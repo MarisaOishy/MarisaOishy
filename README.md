@@ -5,8 +5,7 @@
 ### 📊 Researcher | 🌱 Android App Developer | 💻 Tech Enthusiast
 
 ---
-[
-[<img src="neural.gif" alt="Animation" width="700px" height="auto">]
+<img src="neural.gif" alt="Animation" width="700px" height="auto">
 </div>
 
 ---
