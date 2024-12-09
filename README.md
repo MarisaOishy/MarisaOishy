@@ -5,8 +5,8 @@
 ### 📊 Researcher | 🌱 Android App Developer | 💻 Tech Enthusiast
 
 ---
-
-[<img src="neural.gif" alt="Animation" width="700px" height="auto">](https://media.licdn.com/dms/image/v2/D5603AQEnZP9ypc4qgQ/profile-displayphoto-shrink_200_200/B56ZOmV6OGGkAY-/0/1733662583062?e=1739404800&v=beta&t=tMAs11oZxd5wKBO12cEh2VdOy5f-ltICPbA92eFa-w4)
+[
+[<img src="neural.gif" alt="Animation" width="700px" height="auto">](https://media.licdn.com/dms/image/v2/D5603AQEnZP9ypc4qgQ/profile-displayphoto-shrink_200_200/B56ZOmV6OGGkAY-/0/1733662583062?e=1739404800&v=beta&t=tMAs11oZxd5wKBO12cEh2VdOy5f-ltICPbA92eFa-w4)](https://media.licdn.com/dms/image/v2/D5603AQEnZP9ypc4qgQ/profile-displayphoto-shrink_200_200/B56ZOmV6OGGkAY-/0/1733662583062?e=1739404800&v=beta&t=tMAs11oZxd5wKBO12cEh2VdOy5f-ltICPbA92eFa-w4)
 
 </div>
 
