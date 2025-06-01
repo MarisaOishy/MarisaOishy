@@ -1,56 +1,44 @@
-<!-- Profile README for GitHub -->
+<!-- GitHub Profile README for Marisa Oishy -->
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Machine Learning, Python, and Web Development">
+  <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="350" alt="Woman coding - Python, ML, Web Dev">
 </p>
 
-<h1 align="center">Hi there 👋, I'm [Your Name]</h1>
-<h3 align="center">A passionate developer working with Machine Learning, Python, and Web Development</h3>
+<h1 align="center">Hi, I'm Marisa Oishy 👋</h1>
+<h3 align="center">Machine Learning Enthusiast | Python Developer | Web Developer</h3>
 
 ---
 
-### 💡 About Me
+### 👩‍💻 About Me
 
-- 🔭 I’m currently working on projects involving **Machine Learning** and **Data Analysis**
-- 🌱 I’m learning advanced concepts in **Deep Learning** and **Backend Web Development**
-- 💻 I enjoy building intelligent systems and interactive websites
-- ✨ I love working with Python libraries like `pandas`, `scikit-learn`, `TensorFlow`, and creating responsive UIs using `HTML`, `CSS`, `Tailwind`, and `JavaScript`
-- 📫 How to reach me: [your_email@example.com] or connect on [LinkedIn](https://linkedin.com/in/yourusername)
+I'm a passionate developer with a strong interest in building intelligent systems and crafting beautiful, responsive websites. With a background in Computer Science, I focus on solving real-world problems through:
 
----
+- 🤖 **Machine Learning** – Data analysis, model building, and predictive systems  
+- 🐍 **Python Development** – Clean, efficient scripting and automation  
+- 🌐 **Web Development** – Creating modern, responsive UIs using HTML, CSS (Tailwind), and JavaScript  
 
-### 🚀 Languages & Tools
-
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=flat&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
-</p>
+I thrive on learning, experimenting, and building things that make a difference.
 
 ---
 
-### 📈 GitHub Stats
+### 🛠️ Skills & Technologies
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=tokyonight" width="48%">
-</p>
+- **Languages:** Python, HTML5, CSS3, JavaScript  
+- **Frameworks & Tools:** Tailwind CSS, scikit-learn, TensorFlow, pandas, NumPy  
+- **Development:** Git & GitHub, REST APIs, Responsive Design  
+- **Interests:** AI, Deep Learning, Full-Stack Development
+
+---
+
+### 📫 Let's Connect
+
+- 📧 Email: [oishy25803@gmail.com](mailto:oishy25803@gmail.com)  
+- 💼 LinkedIn: [linkedin.com/in/marisa-oishy-ba1b4323a](https://www.linkedin.com/in/marisa-oishy-ba1b4323a)  
+- 🐙 GitHub: [github.com/MarisaOishy](https://github.com/MarisaOishy)
 
 ---
 
 ### ✨ Quote I Live By
 
-> "Code is like humor. When you have to explain it, it’s bad." – Cory House
+> *"Stay curious, keep learning, and always build with heart."*
 
----
-
-### 🌐 Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/marisa-oishy-ba1b4323a)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/MarisaOishy)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:oishy25803@gmail.com
-)
